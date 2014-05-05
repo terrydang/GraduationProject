@@ -1,0 +1,15 @@
+Procedure ::= StatementList
+StatementList ::= Statement | Statement StatementList
+Statement ::= BasicBlock | Return | Goto | If | Field | Package | String
+Return ::= 'R'
+Goto ::= 'G'
+If ::= 'I'
+BasicBlock ::= 'B'
+Field ::= 'F'0 | 'F'1
+Package ::= 'P' PackageNew | 'P' PackageCall
+PackageNew ::= '0'
+PackageCall ::= '1'
+PackageName ::= Epsilon | Id
+String ::= 'S' Number | 'S' Id
+Number ::= \d+
+Id ::= [a-zA-Z]\w+

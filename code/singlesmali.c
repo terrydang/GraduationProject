@@ -1,0 +1,1 @@
+invoke- virtual{v4,v0,v1,v2,v3},Test2.method5:(IIII)V

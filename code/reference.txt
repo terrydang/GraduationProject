@@ -1,0 +1,154 @@
+
+@inproceedings{shabtai2010automated,
+  title={Automated static code analysis for classifying android applications using machine learning},
+  author={Shabtai, Asaf and Fledel, Yuval and Elovici, Yuval},
+  booktitle={Computational Intelligence and Security (CIS), 2010 International Conference on},
+  pages={329--333},
+  year={2010},
+  organization={IEEE}
+}
+
+
+@inproceedings{cesare2010classification,
+  title={Classification of malware using structured control flow},
+  author={Cesare, Silvio and Xiang, Yang},
+  booktitle={Proceedings of the Eighth Australasian Symposium on Parallel and Distributed Computing-Volume 107},
+  pages={61--70},
+  year={2010},
+  organization={Australian Computer Society, Inc.}
+}
+
+@inproceedings{sanz2013puma,
+  title={Puma: Permission usage to detect malware in android},
+  author={Sanz, Borja and Santos, Igor and Laorden, Carlos and Ugarte-Pedrero, Xabier and Bringas, Pablo Garcia and {\'A}lvarez, Gonzalo},
+  booktitle={International Joint Conference CISIS’12-ICEUTE{\'{}} 12-SOCO{\'{}} 12 Special Sessions},
+  pages={289--298},
+  year={2013},
+  organization={Springer}
+}
+
+@article{samuel1960programming,
+  title={Programming computers to play games},
+  author={Samuel, Arthur L},
+  journal={Advances in computers},
+  volume={1},
+  pages={165--192},
+  year={1960},
+  publisher={Elsevier}
+}
+
+@book{anderson1986machine,
+  title={Machine learning: An artificial intelligence approach},
+  author={Anderson, John Robert and Michalski, Ryszard S and Michalski, Ryszard Stanis{\l}aw and Carbonell, Jaime Guillermo and Mitchell, Tom Michael},
+  volume={2},
+  year={1986},
+  publisher={Morgan Kaufmann}
+}
+
+@article{zhangning2005knn,
+  title={使用 KNN 算法的文本分类},
+  author={张宁 and 贾自艳 and 史忠植},
+  journal={计算机工程},
+  volume={31},
+  number={8},
+  year={2005},
+  language={Chinese}
+}
+
+@article{huwenjun2013android,
+  title={一种针对 Android 平台恶意代码的检测方法及系统实现},
+  author={胡文君 and 赵双 and 陶敬 and 马小博 and 陈亮},
+  journal={西安交通大学学报},
+  volume={47},
+  number={10},
+  year={2013},
+  language={Chinese}
+}
+
+@article{zhangzhenya2005cosine,
+  title={基于余弦相似度的文本空间索引方法研究},
+  author={张振亚 and 王进 and 程红梅 and 王煦法},
+  journal={计算机科学},
+  volume={32},
+  number={9},
+  pages={160--163},
+  year={2005},
+  language={Chinese}
+}
+
+@article{cebrian2005common,
+  title={Common pitfalls using the normalized compression distance: What to watch out for in a compressor},
+  author={Cebrian, Manuel and Alfonseca, Manuel and Ortega, Alfonso and others},
+  journal={Communications in Information \& Systems},
+  volume={5},
+  number={4},
+  pages={367--384},
+  year={2005},
+  publisher={International Press of Boston}
+}
+
+@article{cilibrasi2005clustering,
+  title={Clustering by compression},
+  author={Cilibrasi, Rudi and Vit{\'a}nyi, Paul MB},
+  journal={Information Theory, IEEE Transactions on},
+  volume={51},
+  number={4},
+  pages={1523--1545},
+  year={2005},
+  publisher={IEEE}
+}
+
+@article{kolmogorov1965three,
+  title={Three approaches for defining the concept of information quantity},
+  author={Kolmogorov, Andrei N},
+  journal={Problems of Information Transmission},
+  volume={1},
+  number={1},
+  pages={3--8},
+  year={1965}
+}
+
+@book{li2009introduction,
+  title={An introduction to Kolmogorov complexity and its applications},
+  author={Li, Ming and Vit{\'a}nyi, Paul MB},
+  year={2009},
+  publisher={Springer}
+}
+
+@article{sankoff1983time,
+  title={Time warps, string edits, and macromolecules: the theory and practice of sequence comparison},
+  author={Sankoff, David and Kruskal, Joseph B},
+  journal={Reading: Addison-Wesley Publication, 1983, edited by Sankoff, David; Kruskal, Joseph B.},
+  volume={1},
+  year={1983}
+}
+
+@inproceedings{imam1993discovering,
+  title={Discovering attribute dependence in databases by integrating symbolic learning and statistical analysis techniques},
+  author={Imam, IF and Michalski, RS and Kerschberg, L},
+  booktitle={Proceeding of the AAAI-93 Workshop on Knowledge Discovery in Databases, Washington DC},
+  year={1993}
+}
+
+@article{golub1999molecular,
+  title={Molecular classification of cancer: class discovery and class prediction by gene expression monitoring},
+  author={Golub, Todd R and Slonim, Donna K and Tamayo, Pablo and Huard, Christine and Gaasenbeek, Michelle and Mesirov, Jill P and Coller, Hilary and Loh, Mignon L and Downing, James R and Caligiuri, Mark A and others},
+  journal={science},
+  volume={286},
+  number={5439},
+  pages={531--537},
+  year={1999},
+  publisher={American Association for the Advancement of Science}
+}
+
+@article{shannon2001mathematical,
+  title={A mathematical theory of communication},
+  author={Shannon, Claude Elwood},
+  journal={ACM SIGMOBILE Mobile Computing and Communications Review},
+  volume={5},
+  number={1},
+  pages={3--55},
+  year={2001},
+  publisher={ACM}
+}
+
